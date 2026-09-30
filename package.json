@@ -1,0 +1,14 @@
+{
+  "name": "student-management-node-app",
+  "version": "1.0.0",
+  "description": "Student Management application using Node.js, Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.4"
+  }
+}
